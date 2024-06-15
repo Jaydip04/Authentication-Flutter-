@@ -29,7 +29,6 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Flutter Firebase',
-      home: Text("Har Har Mahadev"),
       // routes: {
       //   '/': (context) => SplashScreen(
       //
